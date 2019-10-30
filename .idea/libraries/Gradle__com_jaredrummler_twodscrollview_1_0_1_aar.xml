@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:twodscrollview:1.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/295569fe34b7b4796b303a40c4bdb741/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/295569fe34b7b4796b303a40c4bdb741/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/twodscrollview/1.0.1/2e40d50a6b6f8f6de2eb7c490f8e9e1b9096514/twodscrollview-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
